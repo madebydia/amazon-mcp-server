@@ -1,5 +1,6 @@
 # Amazon Cart MCP Server
 
+[![SafeSkill 95/100](https://img.shields.io/badge/SafeSkill-95%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/meimakes-amazon-mcp-server)
 Local MCP (Model Context Protocol) server that enables AI assistants to interact with your personal Amazon cart through browser automation. Works with [Claude Desktop](https://claude.ai/download), [Poke](https://poke.com), and any MCP-compatible client.
 
 ## ⚠️ Important Disclaimer
