@@ -35,7 +35,7 @@ By using this software, you acknowledge and accept these risks.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/meimakes/amazon-mcp-server.git
+   git clone https://github.com/madebydia/amazon-mcp-server.git
    cd amazon-mcp-server
    ```
 
@@ -333,12 +333,12 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- 🐛 **Issues:** [GitHub Issues](https://github.com/meimakes/amazon-mcp-server/issues)
+- 🐛 **Issues:** [GitHub Issues](https://github.com/madebydia/amazon-mcp-server/issues)
 - 📧 **Contact:** via GitHub
 
 ## Author
 
-Created by [@meimakes](https://github.com/meimakes)
+Created by [@madebydia](https://github.com/madebydia)
 
 ---
 

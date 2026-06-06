@@ -31,7 +31,7 @@ Thanks for your interest in contributing! This guide will help you get started.
 
 ## Reporting Issues
 
-Use [GitHub Issues](https://github.com/meimakes/amazon-mcp-server/issues) to report bugs or suggest features. Include:
+Use [GitHub Issues](https://github.com/madebydia/amazon-mcp-server/issues) to report bugs or suggest features. Include:
 - Clear description of the issue
 - Steps to reproduce
 - Expected vs actual behavior
